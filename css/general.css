@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F5D04E;
+    font-family: Figtree, Arial;
+    padding-top: 8%;
+}
