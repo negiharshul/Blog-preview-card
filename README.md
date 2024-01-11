@@ -1,2 +1,2 @@
 # Blog-preview-card
-Frontend Mentor Task
+Frontend Mentor Challenges
